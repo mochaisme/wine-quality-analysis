@@ -1,4 +1,4 @@
-wine_df=read.csv("C:/Codingan/Metkuan/Tugas Akhir/winequality-red.csv")
+wine_df=read.csv("Source/winequality-red.csv")
 head(wine_df)
 str(wine_df)
 summary(wine_df)
