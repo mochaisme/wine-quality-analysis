@@ -11,15 +11,7 @@ This project analyzes the Red Wine Quality dataset to understand the physicochem
 ## Project Structure
 - `data/`: Raw dataset
 - `R/`: R scripts for analysis
-- `outputs/`: Generated plots and model results
 - `docs/`: Project documentation
-
-## Key Analyses
-1. Data Preprocessing
-2. Exploratory Data Analysis
-3. Correlation Analysis
-4. Clustering
-5. Predictive Modeling
 
 ## Key Findings
 - Alcohol content positively correlates with wine quality
